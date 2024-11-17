@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import questions from "../database.json";
 import useQuiz from "../hooks/useQuiz";
 
@@ -6,9 +6,10 @@ function Quiz(){
 
     const { result, answers, checkAnswer, handleQuestion, currentQuestion } = useQuiz()
 
-    const navigate = useNavigate()
+    // const navigate = useNavigate()
     const backToHome = () => {
-        navigate('/')
+        // navigate('/')
+        window.location.reload();
     }
     
     return (
