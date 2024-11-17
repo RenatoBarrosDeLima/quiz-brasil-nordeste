@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a capital do Brasil?",
+    "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Piauí"],
+    "correctAnswer": "Brasília"
+  },
+  {
+    "id": 2,
+    "question": "Qual é o idioma oficial do Brasil?",
+    "options": ["Inglês", "Espanhol", "Português", "Italiano"],
+    "correctAnswer": "Português"
+  },
+  {
+    "id": 3,
+    "question": "Em que ano o Brasil foi descoberto pelos portugueses?",
+    "options": ["1550", "1700", "1400", "1500"],
+    "correctAnswer": "1500"
+  },
+  {
+    "id": 4,
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "options": ["Fernando Henrique Cardoso", "Marechal Deodoro da Fonseca.", "Luiz Inácio Lula da Silva", "Jair Messias Bolsonaro"],
+    "correctAnswer": "Marechal Deodoro da Fonseca."
+  },
+  {
+    "id": 5,
+    "question": "Qual é a maior cidade do Brasil em termos de população?",
+    "options": [" São Paulo", "Brasília", "Fortaleza", "Rio de Janeiro"],
+    "correctAnswer": "São Paulo"
+  },
+  {
+    "id": 6,
+    "question": "Qual é a maior bacia hidrográfica do Brasil?",
+    "options": ["Bacia do Rio Parnaíba", "Bacia do Rio Nilo", "Bacia do Rio Paraná", "Bacia Amazônica"],
+    "correctAnswer": "Bacia Amazônica"
+  },
+  {
+    "id": 7,
+    "question": "Qual é o nome da maior ilha fluvial do mundo, localizada no Brasil?",
+    "options": ["Ilha do Amor", "Ilha Grande", "Ilha de Marajó", "Ilha Bela"],
+    "correctAnswer": "Ilha de Marajó"
+  },
+  {
+    "id": 8,
+    "question": "Qual é o nome do ponto mais alto do Brasil?",
+    "options": ["Pico das Agulhas", "Pico da Neblina", "Pico do Gelo", "Pico de Meretí"],
+    "correctAnswer": "Pico da Neblina"
+  },
+  {
+    "id": 9,
+    "question": "Qual é a moeda oficial do Brasil?",
+    "options": ["Dólar", "Real", "Euro", "Cruzeiro"],
+    "correctAnswer": "Real"
+  },
+  {
+    "id": 10,
+    "question": "Qual é o maior bioma em extensão territorial do Brasil?",
+    "options": [
+      "Cerrado",
+      "Caatinga",
+      "Amazônia",
+      "Deserto"
+    ],
+    "correctAnswer": "Amazônia"
+  },
+  {
+    "id": 11,
+    "question": "Qual é o estado brasileiro conhecido como 'terra do sol nascente'?",
+    "options": ["Ceará", "Paraíba", "Rio Grande do Norte", "Piauí"],
+    "correctAnswer": "Paraíba"
+  },
+  {
+    "id": 12,
+    "question": "Em que cidade está localizado o famoso Cristo Redentor?",
+    "options": ["Rio de Janeiro", "Fortaleza", "Belo Horizonte", "Salvador"],
+    "correctAnswer": "Rio de Janeiro"
+  },
+  {
+    "id": 13,
+    "question": "Quantos estados compõem a região Nordeste do Brasil?",
+    "options": ["8", "7", "9", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": 14,
+    "question": "Qual é o maior estado do Nordeste em termos de área?",
+    "options": ["Ceará", "Maranhão", "Paraíba", "Bahia"],
+    "correctAnswer": "Bahia"
+  },
+  {
+    "id": 15,
+    "question": "Qual é a capital do estado da Paraíba?",
+    "options": [ "Teresina", "João Pessoa", "Salvador", "Natal"],
+    "correctAnswer": "João Pessoa"
+  }
+]
